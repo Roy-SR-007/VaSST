@@ -29,7 +29,7 @@
 
 `VaSST` is a probabilistic symbolic regression framework to learn interpretable scientific equations using ensembles of soft symbolic trees, trained using variational inference. Symbolic model selection is carried out using a posterior-aware score that accounts for uncertainty across competing symbolic structures.
 
-This repository contains the source code for the `Python` implementation of `VaSST` proposed in Roy, S., Dey, P., & Mallick, B. K., *VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees*. (Accepted at UAI, 2026; <https://arxiv.org/abs/2602.23561>).
+This repository contains the source code for the `Python` implementation of `VaSST`, proposed in Roy, S., Dey, P., & Mallick, B. K., *VaSST: Variational Inference for Symbolic Regression using Soft Symbolic Trees*, published in the Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence (UAI 2026): [PMLR](https://proceedings.mlr.press/v337/roy26a.html) ([arXiv](https://arxiv.org/abs/2602.23561)).
 
 <p align="center">
   <img src="assets/VaSST_schematic.png" alt="VaSST overview" width="850">
